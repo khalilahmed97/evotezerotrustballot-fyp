@@ -1,4 +1,4 @@
-#Admin Dashboard Screen
+#Admin Dashboard Screen#
 ![image](https://github.com/user-attachments/assets/50e3ca91-3deb-4de9-985a-1a3635b1bb57)
 
 #Registered Voter's Screen
