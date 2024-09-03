@@ -1,3 +1,11 @@
+# PROJECT SCREEN SHOTS
+
+## Homepage 
+![image](https://github.com/user-attachments/assets/aa1f2935-6908-4300-91b2-044e744a5212)
+
+## Authentication Screen
+![image](https://github.com/user-attachments/assets/0922cf81-9637-4303-8f50-9522dfd6ef25)
+
 ## Admin Dashboard Screen
 ![image](https://github.com/user-attachments/assets/50e3ca91-3deb-4de9-985a-1a3635b1bb57)
 
