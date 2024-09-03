@@ -1,0 +1,43 @@
+:root {
+  --yellow: linear-gradient(to right, grey, orange);
+  --orange: #fca61f;
+  --black: #242d49;
+  --gray: #788097;
+  --purple: linear-gradient(180deg, #17173a 0%, #bdbdbd 100%);
+  --pink: #FF919D;
+  --glass: #ADD8E6;
+  --boxShadow: 0px 19px 60px rgb(0 0 0 / 8%);
+  --smboxShadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
+  --activeItem: #f799a354;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.AppGlass {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  padding: 10px;
+  gap: 20px;
+  transition: all 300ms ease;
+}
+
+@media screen and (max-width: 1200px) {
+  .AppGlass {
+    flex-direction: column;
+    overflow-y: scroll;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .AppGlass {
+    flex-direction: column;
+    overflow-y: scroll;
+  }
+}

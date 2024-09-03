@@ -1,0 +1,41 @@
+.RightSide{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40%;
+    width: 100%;
+    justify-content: space-evenly;
+    background-color: linear gradient;
+}
+
+.CustomerReview .rating-chart .bar {
+    background: linear-gradient(to right, grey, orange); /* Use linear gradient from grey to orange */
+  }
+h3 {
+    display: block;
+    font-size: 1.8em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+    font-weight: bold;
+    color: #17173a;
+}
+@media screen and (max-width: 1200px) {
+    .RightSide{
+        justify-content: flex-start;
+        margin-top: 3rem;
+    }
+}
+
+@media screen and (max-width: 768px)
+{
+    .RightSide{
+        width: 100%;
+        margin-top: 0;
+    }
+    .RightSide>div{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

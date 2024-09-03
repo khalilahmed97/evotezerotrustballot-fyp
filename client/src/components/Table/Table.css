@@ -1,0 +1,40 @@
+/* Apply Poppins font family to table elements */
+.MuiTableRow-root > *,
+.MuiTableRow-root.MuiTableRow-head > *,
+.white-text .MuiDataGrid-cell,
+.Table td,
+.Table th,
+.Table:first-child,
+.status,
+.Details {
+/* Ensure fallback font is specified */
+}
+
+/* Ensure bold font weight for table headers */
+.MuiTableRow-root.MuiTableRow-head > * {
+  font-weight: bold;
+}
+.Table{
+  height: 400; 
+  width: "100%"; 
+  font-family: "Poppins";
+  align-items: "center";
+  margin: '0rem';
+}
+/* Additional CSS for responsive design */
+@media screen and (max-width: 1200px) {
+  .Table {
+    width: 170%;
+    margin-top: 2rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .Table {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 23rem;
+  }
+}

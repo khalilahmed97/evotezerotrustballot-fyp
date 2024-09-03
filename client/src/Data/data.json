@@ -1,0 +1,97 @@
+{
+  "Header": {
+    "title": "Welcome to our E-VoteZeroTrustBallot!",
+    "paragraph": "We leverage the power of the Solana blockchain to ensure safe, reliable, and secure elections. Experience fast, transparent, and tamper-proof voting with cutting-edge blockchain technology."
+  },
+  "About": {
+    "paragraph": "EVote is the leading online voting platform used to gather instant, trustworthy results.",
+    "Why": [
+      "Our eVoting platform prioritizes cutting-edge security measures, ensuring the integrity of each vote cast.",
+      "With a user-friendly interface, we streamline the voting process for efficiency while making it accessible to all, promoting inclusivity.",
+      "Real-time result tracking and verifiable audit trails demonstrate our commitment to transparency, building confidence in the electoral process.",
+      "Our platform is not one-size-fits-all; it's customizable to meet diverse election needs, making us a versatile and innovative choice for modern democracy."
+    ],
+    "Why2": [
+      "Embrace the future of elections without breaking the bank. Our eVoting system is a cost-effective alternative to traditional paper-based methods, saving both time and resources.",
+      "Join us at the forefront of modern democracy by adopting an innovative digital approach. We are committed to evolving with technology, providing a seamless and forward-thinking voting experience.",
+      "Beyond the election day, our platform offers reliable support and maintenance. We ensure a smooth voting process from start to finish, addressing any concerns promptly and efficiently.",
+      "We value user feedback and continuously improve based on the needs of our community. Your insights shape the future of our platform, fostering a collaborative and responsive electoral environment."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/1.jpg",
+      "smallImage": "img/portfolio/1.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/2.jpgbl",
+      "smallImage": "img/portfolio/2.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/3.png",
+      "smallImage": "img/portfolio/3.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/4.jpg",
+      "smallImage": "img/portfolio/4.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/5.jpeg",
+      "smallImage": "img/portfolio/5.jpeg"
+    }
+  ],  
+  "Team": [
+    {
+      "img": "img/team/Khalil.png",
+      "name": "Khalil Ahmed Sharif",
+      "job": "Specialized in Frontend and Backend Web Development, as well as Blockchain, creating robust systems and pioneering innovative Blockchain solutions."
+    },
+    {
+      "img": "img/team/Syed Shabeeb Raza.png",
+      "name": "Syed Shabeeb Raza",
+      "job": "Expert in Documentation and Software Quality Assurance (SQA), dedicated to creating efficient systems and clear project documentation."
+    },
+    {
+      "img": "img/team/Mahum Habib.png",
+      "name": "Mahum Habib",
+      "job": "Specialized in UI Design & Software Quality Assurance (SQA), ensuring user-friendly interfaces & reliable software performance."
+    },
+    { 
+      "img": "img/team/Mustafa Ahmed Khan.png",
+      "name": "Mustafa Ahmed Khan",
+      "job": "Specialized in Frontend Developer proficient in creating responsive & intuitive user interfaces using modern web technologies."
+    }
+  ],
+  "Contact": {
+    "address": "ST-16 Main University Rd, Block 5 Gulshan-e-Iqbal, Karachi, Karachi City, Sindh",
+    "phone": "+92 345 3267208",
+    "email": "evotezerotrustballot@gmail.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-solid fa-key",
+      "title": "Security",
+      "text": "Enhances user authentication by requiring multiple forms of verification, reducing the risk of unauthorized access."
+    },
+    {
+      "icon": "fa fa-user-secret ",
+      "title": "Anonymity",
+      "text": "Ensures that individual votes are kept confidential, preventing the identification of how a specific individual voted."
+    },
+    {
+      "icon": "fa fa-shield",
+      "title": "Privacy",
+      "text": "Guarantees that the content of a voter's ballot remains private, known only to the voter."
+    },
+    {
+      "icon": "fa fa-btc",
+      "title": "Blockchain Technology",
+      "text": " Some eVoting systems leverage blockchain for a tamper-resistant and transparent ledger of votes, enhancing the overall security and auditability of the system."
+    }
+  ]
+}

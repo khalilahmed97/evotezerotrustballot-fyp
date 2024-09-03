@@ -1,0 +1,48 @@
+.Cards {
+  height: 8rem;
+  display: flex;
+  gap: 20px;
+  color: #0d4077;
+}
+
+.parentContainer {
+  width: 100%;
+  height: 8rem;
+  color: #0d4077;
+}
+
+.cardTitle {
+  color: #0d4077;
+}
+
+/* Media Queries */
+
+/* For screens up to 1200px */
+@media screen and (max-width: 1200px) {
+  .Cards {
+    flex-direction: column; /* Stack cards vertically on smaller screens */
+    width: 100%; /* Ensure the cards take full width */
+  }
+  
+  .parentContainer {
+    height: 9rem; /* Increase height for better spacing */
+  }
+}
+
+/* For screens up to 768px */
+@media screen and (max-width: 768px) {
+  .Cards {
+    width: 90%; /* Reduce width to fit smaller screens */
+  }
+}
+
+/* For screens up to 576px */
+@media screen and (max-width: 576px) {
+  .Cards {
+    gap: 15px; /* Reduce gap between cards */
+  }
+  
+  .parentContainer {
+    height: 10rem; /* Adjust height for very small screens */
+  }
+}
